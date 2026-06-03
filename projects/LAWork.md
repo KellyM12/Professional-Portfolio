@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/LAWork/uhmanoa.png
+image: img/LAWork/uhmanoasq.png
 title: "LA Work"
 date: 2025
 published: true
