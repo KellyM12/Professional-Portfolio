@@ -2,15 +2,12 @@
 layout: project
 type: project
 image: img/vacay/vacay-square.png
-title: "Vacay"
-date: 2015
+title: "Volunteer Work - Malama Maunalua and Hooulu Aina"
+date: 2024
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: "A responsive web application for travel planning that my team developed in ICS 415."
+  - Volunteer Work
+summary: "Work in the Outdoors to remove Invasive Aquatic and Land Plants Respectively and to learn more about Hawaiian Culture and Values"
 ---
 
 <img class="img-fluid" src="../img/vacay/vacay-home-page.png">
