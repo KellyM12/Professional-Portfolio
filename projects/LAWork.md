@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/LAWork/uhmanoa.png
 title: "LA Work"
 date: 2025
 published: true
