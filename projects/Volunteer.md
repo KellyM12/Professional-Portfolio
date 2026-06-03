@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/volunteer/mm.png
 title: "Volunteer Work - Malama Maunalua and Hooulu Aina"
 date: 2024
 published: true
