@@ -1,14 +1,15 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+<!--image: img/cotton/cotton-square.png-->
+title: "Head Injury, Education, and Risk of Incident Alzheimer's Disease: The Kuakini Honolulu-Asia Aging Study"
+date: 2026
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Math Research
+  - Epidemiology
+  - Statistics
+summary: "A Epidemiology Math Research Project for MATH 480"
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
