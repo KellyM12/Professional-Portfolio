@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-<!--image: img/cotton/cotton-square.png-->
+image: img/MATH480/MATH480Research.png
 title: "Head Injury, Education, and Risk of Incident Alzheimer's Disease: The Kuakini Honolulu-Asia Aging Study"
 date: 2026
 published: true
@@ -12,11 +12,11 @@ labels:
 summary: "A Epidemiology Math Research Project for MATH 480"
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/MATH480/MATH480Research.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+For the Spring 2026 semester, I had to do a math research project for Math 480 I decided to work with Kuakini and the Kuakini Honolulu-Asia Aging Study to present an interdisciplinary math research project.
 
-To give you a flavor of the game, here is an excerpt from one run:
+Below is my poster presentation
 
 <hr>
 
