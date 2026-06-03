@@ -15,4 +15,4 @@ For the Spring and Fall 2025 semesters at University of Hawaii at Manoa, I worke
 
 As a Learning Assistant, I was also required to take EDCS 417, which is a basic pedagogy class to teach learning assistants important concepts within education and to learn how to connect with students in order to be a better educator. Below is the poster presentation that I did for the first semester I was working as a Learning Assistant.
 
-<img class="img-fluid" src="../img/LAWork/EDCS417Poster.png">
+<img class="img-fluid" src="../img/LAWork/EDCS417PosterF.png">
