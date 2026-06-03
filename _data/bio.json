@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Kelly Ms",
+    "name": "Kelly M",
     "label": "Student",
     "picture": "img/Screenshot(453).png",
     "email": "km2@hawaii.edu",
@@ -38,7 +38,6 @@
       "startDate": "2023-08-25",
       "endDate": "2026-08-30",
       "courses": [
-        {
         "ICS 314 Software Engineering I",
         "JPN 201 Intermediate Japanese I",
         "JPN 202 Intermediate Japanese II",
@@ -47,7 +46,6 @@
         "MATH 480 Senior Research",
         "MATH 454 Axiomatic Set Theory",
         "MATH 443 Differential Geometry"
-        }
       ]
     }
   ],
