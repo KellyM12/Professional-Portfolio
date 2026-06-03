@@ -3,23 +3,11 @@ layout: project
 type: project
 image: img/vacay/vacay-square.png
 title: "Volunteer Work - Malama Maunalua and Hooulu Aina"
-date: 2024
+date: 2025
 published: true
 labels:
   - Volunteer Work
 summary: "Work in the Outdoors to remove Invasive Aquatic and Land Plants Respectively and to learn more about Hawaiian Culture and Values"
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
-
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
-
-Here is some example code to illustrate Simple Schema use:
-
-{% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
- 
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
+While I do love being a STEM Major and researching in STEM fields, it's always important to connect with our cultural roots. Working in the field to take care of the land and help in getting rid of invasive species is always an important cause. Being connected to our cultural roots is important in order to see issues that are affecting not only the land and sea but also the community and people around us. I try to volunteer regularly, and while I had to take a break to focus on studies, I hope that I will be able to return to doing these activities very soon.
