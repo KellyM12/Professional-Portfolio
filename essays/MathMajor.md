@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Reflecting on My Overall Experience as a Math Major at UH Manoa"
 # All dates must be YYYY-MM-DD format!
-date: 2016-06-02
+date: 2026-06-02
 published: true
 labels:
   - Mathematics
