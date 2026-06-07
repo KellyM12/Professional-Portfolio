@@ -23,4 +23,4 @@ I really liked the practice WODs and enjoyed doing them. I think that they were 
 
 Overall, I think managing my time between everything that I’m doing will be the true challenge this Summer Term. Thankfully with good instructors and mentors, I am excited to have software engineering as one of my classes this semester. Also, thankfully I'm feeling better now so I'm ready to tackle the rest of the course material!
 
-<img class="img-fluid" src="../img/E10/sickness.png">
+<img class="img-fluid" src="../img/E10/sickness.jpg">
