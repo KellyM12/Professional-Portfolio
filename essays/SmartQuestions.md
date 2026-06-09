@@ -22,6 +22,8 @@ For example, one time the printer in the Math Undergraduate Lounge wasn’t work
 
 I have used Stack Overflow quite frequently to fix my own coding problems within projects, mostly by reading other users’ questions and the associated responses. However, I imagine as coding will become more difficult for me in the future, knowing how to ask a question, especially on a site as well-known as Stack Overflow, is an important skill for my career. I learned a lot of new things from this reading, specifically that there is a sweet spot between being concise and showing that you’ve tried to fix the problem already. I also thought that at least for software issues, the specifics on how to make a good title were interesting. Although I didn’t know about this method, I generally agree with the practices. If I were on the other side helping someone with a question, I would much prefer the smart title, as it’s concise and gets to the point. As a result, I’ve looked at some examples of Stack Overflow pages that follow, or don’t follow, the Smart Way of asking questions.
 
+<img class="img-fluid" src="../img/E11/stackoverflow.png">
+
 ## Starting with the Bad
 
 ### i am new to c and not sure if i am using the right approach
