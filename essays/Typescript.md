@@ -24,3 +24,7 @@ I really liked the practice WODs and enjoyed doing them. I think that they were 
 Overall, I think managing my time between everything that I’m doing will be the true challenge this Summer Term. Thankfully with good instructors and mentors, I am excited to have software engineering as one of my classes this semester. Also, thankfully I'm feeling better now so I'm ready to tackle the rest of the course material!
 
 <img class="img-fluid" src="../img/E10/sickness.jpg">
+
+I've added a paragraph onto here for downloading GitHub Desktop, as I think that I've made my technical essays pretty well, including editing. I've also added an image to test that as well. I must say that Github Desktop is very convenient. As someone that's had to learn how to use bash, this is much more beginner friendly and what people should be introduced to first. Although, I do think that learning bash has its benefits as well.
+
+<img class ="img-fluid" src="../img/E16-GitHubDesktop/github-desktop.png">
