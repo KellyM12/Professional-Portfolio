@@ -27,4 +27,4 @@ Overall, I think managing my time between everything that I’m doing will be th
 
 I've added a paragraph onto here for downloading GitHub Desktop, as I think that I've made my technical essays pretty well, including editing. I've also added an image to test that as well. I must say that Github Desktop is very convenient. As someone that's had to learn how to use bash, this is much more beginner friendly and what people should be introduced to first. Although, I do think that learning bash has its benefits as well.
 
-<img class ="img-fluid" src="../img/E16-GitHubDesktop/github-desktop.png">
+<img class ="img-fluid" src="../img/E16/github-desktop.png">
