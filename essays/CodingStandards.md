@@ -9,7 +9,7 @@ labels:
   - Coding
 ---
 
-<img class="img-fluid" src="../img/E11/stackoverflow.png">
+<img class="img-fluid" src="../img/E28/comp-lab.png">
 
 ## Coding Education
 
