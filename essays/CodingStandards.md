@@ -9,6 +9,10 @@ labels:
   - Coding
 ---
 
+<img class="img-fluid" src="../img/E11/stackoverflow.png">
+
+## Coding Education
+
 As much as people like to complain about them, coding standards are really the backbone of learning how to code and being able to code effectively with other people. Good naming conventions and commenting are extremely important so that the programmer can remember what certain variables are meant to store and what the functions/methods are meant to do. Even when I was first learning programming, learning and keeping with the coding standards made it easier for me to remember what’s more important for which language (if enters and spacing were important, where to look for functions and the main method, etc.). Coding standards are also helpful for working on projects that involve multiple people. Making sure that there are comments that explain thoroughly what each thing is meant to do can save other people a lot of time when looking over the code. Good, or at least consistent, naming conventions across a group, can also help convey what something is meant for, even if the comments are weak, are absent, or don’t make much sense. However, I think having good commenting conventions is the most important part of coding standards.
 
 ## A Memory From a While Ago
