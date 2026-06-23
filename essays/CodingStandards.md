@@ -27,5 +27,5 @@ Although I’m a staunch believer in having brackets on new lines to a degree th
 
 Overall, good coding standards are important to learn how to work with other people, yourself, and your coding language education. I think emphasizing the main importance of good coding standards are a key for good communication for people learning coding and computer programming for the first time. Most people will agree to try something if they can see why it can be useful, helpful, or important. I found it a bit difficult to install ESLint, but I enjoyed my time with it, and I hope I can work with it more in the future.
 
-> "Give a Man a Fish, and You Feed Him for a Day. Teach a Man To Fish, and You Feed Him for a Lifetime."
-> - Anne Isabella Thackeray Ritchie
+> "Styles come and go, design goes on forever: solving communication problems with new tools applied to the same old common sense."
+> - Ivan Chermayeff
