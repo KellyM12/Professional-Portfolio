@@ -9,7 +9,7 @@ labels:
   - UI
 ---
 
-> ""Design is everywhere. From the dress you're wearing to the smartphone you're holding, it's design.""
+> "Design is everywhere. From the dress you're wearing to the smartphone you're holding, it's design."
 > - Samadara Ginige
 
 ## What is UI Frameworks (I had the same question)
