@@ -3,10 +3,10 @@ layout: essay
 type: essay
 title: "The Importance of Coding Standards (despite what some people think)"
 # All dates must be YYYY-MM-DD format!
-date: 2026-06-22
+date: 2026-07-03
 published: true
 labels:
-  - Coding
+  - UI
 ---
 
 <img class="img-fluid" src="../img/E28/comp-lab.jpg">
