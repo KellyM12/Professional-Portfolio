@@ -6,7 +6,7 @@ title: "The Importance of Coding Standards (despite what some people think)"
 date: 2026-06-22
 published: true
 labels:
-  - UI
+  - Coding
 ---
 
 <img class="img-fluid" src="../img/E28/comp-lab.jpg">
