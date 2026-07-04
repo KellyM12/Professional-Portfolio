@@ -28,4 +28,4 @@ I’ve had quite a bit of experience in HTML and CSS from some coding exercises,
 
 Overall, I think that everything learned from these exercises was very valuable. It makes me want to learn more about and experiment more with Bootstrap for my own education. Ultimately, I think it’s important for every software engineer to learn because the front end is just as important as the back end for web development. Humans in general like good design elements, and making sure that everything is easy to read and navigate plays a very important role in that process.
 
-<img class="img-fluid" src="../img/E28/comp-lab.jpg">
+<img class="img-fluid" src="../img/E37/nanas-green-tea.png">
