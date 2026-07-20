@@ -12,15 +12,17 @@ labels:
 
 # Outdoor Buddies App
 
-## The Problem
+## Overview
+
+### The Problem
 
 People love taking hikes, running, and walking in Hawaii. There are many areas and paths with beautiful scenery all around Oahu. Sometimes people don’t feel comfortable hiking, running or walking by themselves, and it can be hard to find a group of people with whom to go.
 
-## The Solution
+### The Solution
 
 The Outdoor Buddies App will allow students to login, create a profile marking certain preferences, view pre-existing groups or create a new one, and join with other students on the many beautiful hiking, running, and walking spots on Oahu. They can message each other within the app, post announcements for group hiking events, and create a community.
 
-## Mockup Page Ideas
+## Approach and Mockup Page Ideas
 
 Once a profile is created, others can browse the profiles filtered by their preferences to find compatible people and groups with whom to contact and connect. Students can also set up notifications for specific outdoors groups. If the group plans on doing an event on a specific date, the user can join and confirm they’re going. Administrators can monitor the site for inappropriate content, and have pages that also show how intensive the hikes are, what things are necessary for most hikes, how to best prepare for a specific hike, as well as the best travel routes to go there.
 - Home Page (display event announcements that are happening soon)
@@ -28,7 +30,7 @@ Once a profile is created, others can browse the profiles filtered by their pref
 - Outdoors Idea Page (see ideas for places to go on Oahu)
 - Search Page (Search other profiles, routes, groups, and activities with filters/tags) 
 
-## Use Case Ideas:
+## Use Case Ideas
 
 - New user goes to landing page, logs in, gets home page, sets up profile with preferences for these events (ex. no less than 20 people for each event, only women, fitness level, etc.).
 - Administrator goes to landing page, logs in, gets home page or outdoors idea page, edits site with new events from outside the website to expand, as well as updating any better transportation ideas or outdoor spots.
