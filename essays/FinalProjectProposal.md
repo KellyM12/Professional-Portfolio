@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Proposal Idea - <titledraft>"
+title: "Final Project Proposal Idea - Outdoor Buddies App"
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-19
 published: true
