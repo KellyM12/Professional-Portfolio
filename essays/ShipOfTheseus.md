@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Ship of Theseus (but not the paradox concept)"
+title: "The Ship of Theseus (but not the paradox)"
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-30
 published: true
