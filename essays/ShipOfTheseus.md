@@ -1,4 +1,15 @@
-
+---
+layout: essay
+type: essay
+title: "The Ship of Theseus (but not the paradox concept)"
+# All dates must be YYYY-MM-DD format!
+date: 2026-07-30
+published: true
+labels:
+  - Ship of Theseus
+  - Design Patterns
+  - Projects
+---
 
 Whenever I think of working on a significant project, especially with other people, I always think of the Ship of Theseus. Not necessarily in the paradoxical questioning if it’s the same ship sort of way, but more like how the ship gets built over time. At first, the hull skeleton of the ship needs to be built to establish a sort of structure and theme. Then, using that support more of the ship can be constructed as a draft to get an outline for the very necessary ideas that eventually become the important components, things like beds for people to sleep, food storage for the people on the ship, and how the ship will navigate in the sea speedily. Once this draft of the ship is built, there are considerations for optimizing these processes further. What kind of bedding, food, and tools will be needed and considered for the journey? After the questions of improving function, paints and embellishments to decorate up the ship, for the aesthetic and theming. However, even if the ship is ready for the journey, it may still need improving even after. Components that were used in previous places have been found for a better use case. New components that were floating in the sea or found during a stop are for the perfect function. The ship becomes more and more optimized, with everyone trying to collaborate together on how it can best suit their needs. 
 
