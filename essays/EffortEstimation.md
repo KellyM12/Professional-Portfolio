@@ -12,7 +12,7 @@ labels:
 
 Before this course, I wasn’t very good at estimating the amount of time it would take to complete coding assignments. However, the WODs were very helpful in attuning my sense of time estimation. Usually, when I plan a project or task, I try to estimate more time than I truly think is necessary, so that I have some insurance built in. For this project, I was using Github timing to try to measure the amount of time I would spend on different tasks, although I recognize it’s not the most accurate method.
 
-<img class="img-fluid" src="../img/E63/theseus.jpg">
+<img class="img-fluid" src="../img/E57B/timemanagement.jpg">
 
 ## How am I using the Estimation Tool? Well...
 
@@ -32,5 +32,5 @@ After doing this project, I can see the value of tracking effort, especially for
 
 I think that the major takeaway here is that communication is important when you’re working in a group. The more that you know about your capabilities with the tasks at hand, the better you will be at communicating what your needs will be to get the job done. However, I do think that there’s no one method of communicating or estimating time. It’s a thing that you have to experience over and over again to be able to ask yourself how you best operate. Everyone always has the opportunity to get better at this sort of thing. Including me! Although, look at the time! I guess I must go now.
 
-> "If there is no struggle, there is no progress."
-> - Frederick Douglass
+> "I must govern the clock, not be governed by it."
+> - Golda Meir
