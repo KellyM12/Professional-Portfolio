@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "The Estimation Effort or the Guesstimation Effort?"
+title: "Calibrating the Estimation Tool"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-10
 published: true
@@ -14,7 +14,7 @@ Before this course, I wasn’t very good at estimating the amount of time it wou
 
 <img class="img-fluid" src="../img/E63/theseus.jpg">
 
-## The Ship of Theseus
+## How am I using the Estimation Tool? Well...
 
 This semester was very busy for me, so sometimes when working on this project I would forget to start the timer to actually measure the amount of time for each task. Measuring the timing of tasks doesn’t come very naturally to me in my daily life. With the WODs, I have decent intuition and don’t really need to time things to the precise minute. I find that it’s better to just get to work on the task. However, time estimates were very helpful for communication with my group-member. I do recognize when I’m not really making any progress though, and usually I try to stop myself before this stage and either ask someone for help or take a break from the task to see if I can think of a solution to try later. Being inefficient is never great, especially when working with other people and I’ve always personally found it important to not be afraid to ask for help. Taking breaks can truly be very helpful. Thinking about something else for a while and coming back refreshed can be the key to thinking of a good solution.
 
