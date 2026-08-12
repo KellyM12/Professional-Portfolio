@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Learning about Bootstrap: Why UI Frameworks is so Important"
+title: "AI Reflection"
 # All dates must be YYYY-MM-DD format!
-date: 2026-07-03
+date: 2026-08-11
 published: true
 labels:
   - UI
