@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "AI Reflection"
+title: "The Fast Paced World with AI, The Fast Paced Technology"
 # All dates must be YYYY-MM-DD format!
 date: 2026-08-11
 published: true
