@@ -9,8 +9,10 @@ labels:
   - AI
 ---
 
-> "Design is everywhere. From the dress you're wearing to the smartphone you're holding, it's design."
-> - Samadara Ginige
+<img class="img-fluid" src="../img/AI/ai-busy.png">
+
+> "The student who is using it because they lack the expertise is exactly the student who is not ready to assess what it’s doing critically."
+> - Chronicle of Higher Ed
 
 ## Introduction
 
