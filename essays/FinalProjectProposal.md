@@ -2,12 +2,13 @@
 layout: essay
 type: essay
 title: "Final Project Proposal Idea - Outdoor Buddies App"
-# All dates must be YYYY-MM-DD format!
+# All dates must be YYYY-MM-DD format! 
 date: 2026-07-19
 published: true
 labels:
   - Final Project Proposal
   - ICS 314
+  - Outdoor Buddies
 ---
 
 # Outdoor Buddies App

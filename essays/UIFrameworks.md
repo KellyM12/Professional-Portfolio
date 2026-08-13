@@ -1,12 +1,13 @@
 ---
 layout: essay
 type: essay
-title: "Learning about Bootstrap: Why UI Frameworks is so Important"
+title: "Learning about Bootstrap: The Importance of UI Frameworks"
 # All dates must be YYYY-MM-DD format!
 date: 2026-07-03
 published: true
 labels:
   - UI
+  - Bootstrap
 ---
 
 > "Design is everywhere. From the dress you're wearing to the smartphone you're holding, it's design."

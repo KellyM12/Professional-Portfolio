@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Asking Smart Questions about Technology - Stack Overflow"
-# All dates must be YYYY-MM-DD format!
+# All dates must be YYYY-MM-DD format! 
 date: 2026-06-08
 published: true
 labels:

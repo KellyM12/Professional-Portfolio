@@ -6,7 +6,9 @@ title: "The Ups and Downs of Getting Used to a New Term – Learning Typescript"
 date: 2026-06-07
 published: true
 labels:
-  - Software Engineering
+  - Typescript
+  - ICS 314
+  - Summer 26
 ---
 
 <img class="img-fluid" src="../img/E10/summer.jpg">
@@ -25,6 +27,6 @@ Overall, I think managing my time between everything that I’m doing will be th
 
 <img class="img-fluid" src="../img/E10/sickness.jpg">
 
-I've added a paragraph onto here for downloading GitHub Desktop, as I think that I've made my technical essays pretty well, including editing. I've also added an image to test that as well. I must say that Github Desktop is very convenient. As someone that's had to learn how to use bash, this is much more beginner friendly and what people should be introduced to first. Although, I do think that learning bash has its benefits as well.
+I've added a paragraph here for downloading GitHub Desktop, as I think that I've written my technical essays pretty well, including editing. I've added an image to test that as well. I must say that Github Desktop is very convenient. As someone who has had to learn how to use bash, Github Desktop is much more beginner friendly and what people should be introduced to first. Although, I do think that learning bash has its benefits as well.
 
 <img class ="img-fluid" src="../img/E16/github-desktop.png">

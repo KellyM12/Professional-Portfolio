@@ -2,11 +2,12 @@
 layout: essay
 type: essay
 title: "The Fast Paced World with AI, The Fast Paced Technology"
-# All dates must be YYYY-MM-DD format!
+# All dates must be YYYY-MM-DD format! 
 date: 2026-08-11
 published: true
 labels:
   - AI
+  - AI in Education
 ---
 
 <img class="img-fluid" src="../img/AI/ai-busy.png">
