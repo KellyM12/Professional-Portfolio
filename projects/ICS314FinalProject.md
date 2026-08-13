@@ -38,3 +38,7 @@ I worked on the parts of the website where Users could make their own Profile or
 ## Overall Takeaway
 
 I think it was a nice experience overall. I learned a lot about coding projects, time management, and communication. If I were to do it again, there would be quite a few things I would do differently, but I'm happy with the ending result, as I feel I have put a lot of love into this project.
+
+If you're interested in this project, check our user and developer guide here: [User and Developer Guide](https://outdoor-buddies.github.io/)
+
+If you're interested in checking the web application deployed live through Vercel, check that out here: [Outdoor Buddies Web Application](https://outdoor-buddies-green.vercel.app/)
