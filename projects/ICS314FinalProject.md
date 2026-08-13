@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ICS314FinalProject/oblogo-final.png
+image: img/ICS314FinalProject/oblogo-final-web.png
 title: "Outdoor Buddies"
 date: 2026
 published: true
